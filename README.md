@@ -1,16 +1,18 @@
-### Hi there 👋
+Hey, y'all! I'm Jonatas Vieira
 
-<!--
-**JonatasV/JonatasV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Economics
+- 🌱 I’m currently learning #Rstats
+- ⚡ Fun fact: Learning! Learning is always fun.
+<div>
+  <a href="https://github.com/JonatasV">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasV&layout=compact&langs_count=16&theme=dark"/>
 
-Here are some ideas to get you started:
+##
+    
+</div>
+  <div style = "display:inline_block"><cbr>
+  <img align="center" alt="Joca-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
+  <img img align="center" alt="Joca-Pyton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
