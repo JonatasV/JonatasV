@@ -1,7 +1,7 @@
-Hey, y'all! I'm Jonatas Vieira
+Hey, y'all! I'm Jonatas
 
-- 🔭 I’m currently working on Economics
-- 🌱 I’m currently learning #Rstats
+- 🔭 I’m  an Economist
+- 🌱 I’m currently learning #Rstats and Python. 
 - ⚡ Fun fact: Learning! Learning is always fun.
 <div>
   <a href="https://github.com/JonatasV">
