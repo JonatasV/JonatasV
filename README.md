@@ -1,8 +1,8 @@
 Hey, y'all! I'm Jonatas
 
 - 🔭 I’m  an Economist
-- 🌱 I’m currently learning #Rstats and Python. 
-- ⚡ Fun fact: Learning! Learning is always fun.
+- 🌱 #Rstats and Python. 
+- ⚡ "It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult" Seneca.
 <div>
   <a href="https://github.com/JonatasV">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasV&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
