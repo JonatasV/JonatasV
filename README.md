@@ -1,4 +1,6 @@
-Hey, y'all! I'm Jonatas
+Hey, y'all! 
+
+I'm Jonatas. I have a Master's degree in Economics and I'm also a great Data Science enthusiast.
 
 - 🔭 I’m  an Economist
 - 🌱 #Rstats and Python. 
